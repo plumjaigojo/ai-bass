@@ -1,0 +1,169 @@
+INFO:root:Bounce Count: 1
+INFO:root:Bounce Count: 2
+INFO:root:Bounce Count: 3
+INFO:root:Bounce Count: 4
+INFO:root:Bounce Count: 5
+INFO:root:Bounce Count: 6
+INFO:root:Bounce Count: 7
+INFO:root:Bounce Count: 8
+INFO:root:Bounce Count: 9
+INFO:root:Bounce Count: 1
+INFO:root:Bounce Count: 2
+INFO:root:Bounce Count: 3
+INFO:root:Bounce Count: 4
+INFO:root:Bounce Count: 1
+INFO:root:Bounce Count: 2
+INFO:root:Bounce Count: 3
+INFO:root:Bounce Count: 4
+INFO:root:Bounce Count: 5
+INFO:root:Bounce Count: 6
+INFO:root:Bounce Count: 7
+INFO:root:Bounce Count: 8
+INFO:root:Bounce Count: 9
+INFO:root:Bounce Count: 10
+INFO:root:Bounce Count: 11
+INFO:root:Bounce Count: 12
+INFO:root:Bounce Count: 13
+INFO:root:Bounce Count: 14
+INFO:root:Bounce Count: 15
+INFO:root:Bounce Count: 16
+INFO:root:Bounce Count: 17
+INFO:root:Bounce Count: 18
+INFO:root:Bounce Count: 19
+INFO:root:Bounce Count: 20
+INFO:root:Bounce Count: 21
+INFO:root:Bounce Count: 22
+INFO:root:Bounce Count: 23
+INFO:root:Bounce Count: 24
+INFO:root:Bounce Count: 25
+INFO:root:Bounce Count: 26
+INFO:root:Bounce Count: 27
+INFO:root:Bounce Count: 28
+INFO:root:Bounce Count: 29
+INFO:root:Bounce Count: 30
+INFO:root:Bounce Count: 31
+INFO:root:Bounce Count: 32
+INFO:root:Bounce Count: 33
+INFO:root:Bounce Count: 34
+INFO:root:Bounce Count: 35
+INFO:root:Bounce Count: 36
+INFO:root:Bounce Count: 37
+INFO:root:Bounce Count: 38
+INFO:root:Bounce Count: 39
+INFO:root:Bounce Count: 40
+INFO:root:Bounce Count: 41
+INFO:root:Bounce Count: 42
+INFO:root:Bounce Count: 43
+INFO:root:Bounce Count: 44
+INFO:root:Bounce Count: 45
+INFO:root:Bounce Count: 46
+INFO:root:Bounce Count: 47
+INFO:root:Bounce Count: 1
+INFO:root:Bounce Count: 2
+INFO:root:Bounce Count: 3
+INFO:root:Bounce Count: 4
+INFO:root:Bounce Count: 5
+INFO:root:Bounce Count: 6
+INFO:root:Bounce Count: 7
+INFO:root:Bounce Count: 8
+INFO:root:Bounce Count: 9
+INFO:root:Bounce Count: 10
+INFO:root:Bounce Count: 11
+INFO:root:Bounce Count: 12
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 1
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 2
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 3
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 4
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 5
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 6
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 7
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 8
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 9
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 10
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 11
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 12
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 13
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 14
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 15
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 16
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+INFO:root:Dribble Count: 17
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
+ERROR:root:Error processing keypoints: setting an array element with a sequence. The requested array would exceed the maximum number of dimension of 64.
